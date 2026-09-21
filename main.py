@@ -1,2 +1,5 @@
-print("Hello Git")
-print("Learning backend")
+def main(run:int):
+    print(run)
+
+
+main(25)
